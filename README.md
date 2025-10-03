@@ -818,13 +818,12 @@ void Lcd_clear(Lcd_HandleTypeDef * lcd);
 ```
 
 ## Output screen shots of proteus  :
- <img width="783" height="561" alt="Screenshot 2025-09-30 135731" src="https://github.com/user-attachments/assets/21e92527-ae32-42ec-a0b1-dd045433194d" />
+<img width="940" height="786" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a47bad88-9132-4f01-8188-d3f77dceafd7" />
+
 
  
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img width="1016" height="778" alt="Screenshot 2025-09-30 140229" src="https://github.com/user-attachments/assets/8a601c6c-3f87-47e8-89a4-45268973bd0c" />
+ <img width="1004" height="803" alt="Screenshot 2025-10-03 102530" src="https://github.com/user-attachments/assets/3ce5aa17-8ea8-4b79-bba7-4259b897f25b" />
 
- 
- 
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
